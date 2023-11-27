@@ -2,7 +2,7 @@ name: SDF Validation
 run-name: validate
 on:
   push:
-    branches: [main]
+    branches: [master]
     jobs:
       sdf-validate:
         runs-on: ubuntu-latest
