@@ -1,5 +1,5 @@
-name: SDF Validation
-run-name: validate
+name: Pipeline SDF
+run-name: validate_pipeline
 on:
   push:
     branches: [master]
