@@ -9,8 +9,6 @@
 *.sublime-workspace
 .vscode
 
-# Dependency directories
-node_modules
 
 # TypeScript cache
 *.tsbuildinfo
@@ -36,5 +34,3 @@ Thumbs.db
 # Output of 'npm pack'
 *.tgz
 
-# Project config
-project.json
