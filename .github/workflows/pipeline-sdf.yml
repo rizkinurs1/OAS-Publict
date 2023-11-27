@@ -4,7 +4,7 @@ on:
   push:
     branches: [master]
     jobs:
-      sdf-validate:
+      pipeline-sdf:
         runs-on: ubuntu-latest
         environment: Demo Account
         steps:
